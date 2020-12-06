@@ -11,7 +11,7 @@ var (
 	ln string
 )
 
-func getId(ec string) int {
+func getID(ec string) int {
 
 	var l = 0
 	var r = 127
