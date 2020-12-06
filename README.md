@@ -1,3 +1,3 @@
-# advent-2020
+# advent-2020 🎄
 
-Github Advent of Code 2020 🎄
+Github Advent of Code 2020
